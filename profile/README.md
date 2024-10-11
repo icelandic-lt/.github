@@ -46,7 +46,7 @@ In the Icelandic LT program, we have addressed the following LT categories:
 
 ### Language Resources
 
-Language Resources are general resources needed by many language technology domains. These are mostly datasets, lexica, corpora & dictionaries. More specific datasets & dictionaries can be found under their respective category.
+Language Resources are general resources needed by many language technology domains. These are mostly datasets, lexica, corpora & dictionaries. More specific datasets & dictionaries can be found under their respective category. General foundation models can be found under [Support Tools](#support-tools)
 
 Browse [Language resources](https://github.com/icelandic-lt/icelandic-lt/blob/main/doc/lr.md)
 
@@ -64,7 +64,7 @@ Browse [Machine Translation resources](https://github.com/icelandic-lt/icelandic
 
 ### Support Tools
 
-General NLP tools (tokenizer, tagger, parser) that are often used as part of LT pipelines.
+General NLP tools (foundation models ,tokenizer, tagger, parser) that are often used as part of LT pipelines.
 
 Browse [Support Tools](https://github.com/icelandic-lt/icelandic-lt/blob/main/doc/st.md)
 
