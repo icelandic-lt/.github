@@ -33,7 +33,7 @@ The resources on [Clarin.is](https://clarin.is) are mainly for archiving milesto
 
 ### GitHub
 
-Numerous computer programs, libraries, Python packages, training scripts, web applications, etc., have been developed within the Icelandic-LT program, and most of these are available as GitHub repositories. We have assembled all these repositories - currently more than 75 - under the umbrella organization [GitHub Icelandic-LT](https://github.com/icelandic-lt), where you can browse and search all organization repositories.
+Numerous computer programs, libraries, Python packages, training scripts, web applications, etc., have been developed within the Icelandic-LT program, and most of these are available as GitHub repositories. We have assembled all these repositories - currently more than 85 - under the umbrella organization [GitHub Icelandic-LT](https://github.com/icelandic-lt), where you can browse and search all organization repositories.
 
 ### Hugging Face
 
