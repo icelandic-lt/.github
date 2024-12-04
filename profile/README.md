@@ -11,11 +11,13 @@ As is not uncommon for a development program spanning multiple years, some of th
 For source code-based projects, this is often related to frameworks and 3rd party dependencies. For instance, in cases where Python is used as the programming language, sometimes Python versions that have reached end-of-life status are used,
 as well as older versions of dependencies. Some of the resources have experimental status and need further research or development to be usable in a production environment.
 
+## Contact
+
 If you encounter difficulties when trying out any of the resources, we encourage you to send us feedback via a GitHub issue, either on this main repository or at the appropriate repository's issue tracker.
 
-We always welcome contributions and discussions!
+For email inquiries, contact the [current maintainers](mailto:info@grammatek.com) directly.
 
-**We are currently in the process of updating the status of all projects and testing their applicability with current technologies.**
+We always welcome contributions and discussions! 
 
 ## Resource Locations
 
